@@ -2,6 +2,7 @@
 
 【環境】
 OS:Mac
+
 App:Karabiner-Elements
 
 【使用方法】
