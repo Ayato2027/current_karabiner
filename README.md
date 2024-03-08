@@ -1,8 +1,8 @@
 キーボード内部制御プログラム
 
 【環境】
- OS:Mac
- App:Karabiner-Elements
+  OS:Mac
+  App:Karabiner-Elements
 
 【使用方法】
 1. MacにKarabiner-Elementsをインストールする
